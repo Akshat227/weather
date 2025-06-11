@@ -18,10 +18,10 @@ A lightweight and elegant command-line weather app built with Python and powered
 
 🌆 Enter a city name: Paris
 
-📍 Weather in Paris, Île-de-France, France
-🌡️ Temperature: 21.4°C
-🥶 Feels Like: 20.8°C
-🌤️ Condition: Partly cloudy
+-📍 Weather in Paris, Île-de-France, France
+-🌡️ Temperature: 21.4°C
+-🥶 Feels Like: 20.8°C
+-🌤️ Condition: Partly cloudy
 
 ## ⚙️ Installation & Setup
 

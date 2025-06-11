@@ -16,13 +16,13 @@ A lightweight and elegant command-line weather app built with Python and powered
 
 ## 📸 Demo
 ```bash
--  🌆 Enter a city name: Paris
+Enter a city name: Paris
 ```
 ```bash
-- 📍 Weather in Paris, Île-de-France, France
-- 🌡️ Temperature: 21.4°C
-- 🥶 Feels Like: 20.8°C
-- 🌤️ Condition: Partly cloudy
+Weather in Paris, Île-de-France, France
+Temperature: 21.4°C
+Feels Like: 20.8°C
+Condition: Partly cloudy
 ```
 ## ⚙️ Installation & Setup
 

@@ -37,4 +37,7 @@ A lightweight and elegant command-line weather app built with Python and powered
 
 ```bash
 git clone https://github.com/your-username/weather-cli.git
+```
+
+```bash
 cd weather-cli

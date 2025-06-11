@@ -23,8 +23,8 @@ A lightweight and elegant command-line weather app built with Python and powered
 🥶 Feels Like: 20.8°C
 🌤️ Condition: Partly cloudy
 
-```bash
 ## ⚙️ Installation & Setup
+
 
 ### 🔧 Requirements
 

@@ -1,6 +1,6 @@
 import requests
 
-Api_key = "ffff534834c64c6ca28162222250706"
+Api_key = "lauda mera"
 Base_url ="http://api.weatherapi.com/v1/current.json"
 
 def weather(city):
